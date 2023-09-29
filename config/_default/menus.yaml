@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 9ca6b310-dc93-095c-9ac0-f0e5f95e6930
+  name: 'Part I: The Fundamentals'
+  pageRef: /pages/part-i-the-fundamentals
+  weight: 10
+- identifier: b8cdf274-e2b0-f826-62e4-cd137e85d308
+  name: 'Part II: Inference & Limit Theorems'
+  pageRef: /pages/part-ii-inference-limit-theorems
+  weight: 20
+- identifier: ea0e960c-7d6b-b5ec-3c28-c2657fe85c0d
+  name: 'Part III: Random Processes'
+  pageRef: /pages/part-iii-random-processes
+  weight: 30
